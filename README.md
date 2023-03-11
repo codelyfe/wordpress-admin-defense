@@ -1,5 +1,12 @@
 # WordPress Admin Defense:
-Are you tired of hackers brute-forcing your wp-admin? We may have a solution!
+Are you tired of hackers brute-forcing your wp-admin? 
+
+## We may have a solution!
+
+## This script will stop hackers from using simple bruteforce techniques to by-pass user login.
+
+### In standard #RRGGBB notation, there are 256^3 color combinations available, or 16,777,216. 
+( Source of info: https://www.shutterstock.com/blog/how-hex-colors-work#:~:text=How%20Many%20Hex%20Colors%20Are,ranging%20from%2000%20to%20FF. )
 
 ---
 
