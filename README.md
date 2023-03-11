@@ -102,6 +102,7 @@ else {
 ---
 
 ### Add this script to /wp-admin/index.php at the top of the script after ( <?php ).
+WARNING: When updating WordPress Core. You will have to insert this script below again.
 
 ```
 
