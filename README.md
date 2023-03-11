@@ -13,7 +13,7 @@ Test Login Here: https://wecreatelyfe.com/wp-admin
 ---
 
 # How To Install?
-Place "login.php and login_handle.php" into the "wp-admin" directory.
+Place "login.php , logout.php and login_handle.php" into the "wp-admin" directory.
 
 Add script at the bottom of this README.md to /wp-admin/index.php
 
