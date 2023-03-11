@@ -82,3 +82,20 @@ else {
 ?>
 
 ```
+
+---
+
+### Add this script to /wp-admin/index.php at the top of the script after ( <?php ).
+
+```
+
+session_start();
+
+// Check if the user is authenticated by checking if a session variable has been set
+if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
+    // User is not authenticated - Redirect to the login page
+    header("Location: login.php");
+    exit();
+}
+
+```
