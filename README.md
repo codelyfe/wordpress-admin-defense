@@ -1,7 +1,11 @@
 # WordPress Admin Defense:
 Are you tired of hackers brute-forcing your wp-admin? We may have a solution!
 
-```login.php
+---
+
+### login.php
+
+```
 
   <head>
     <title>WordPress Admin Defense</title>
