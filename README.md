@@ -12,6 +12,13 @@ Are you tired of hackers brute-forcing your wp-admin?
 Test Login Here: https://wecreatelyfe.com/wp-admin
 ---
 
+# How To Install?
+Place "login.php and login_handle.php" into the "wp-admin" directory.
+
+Add script at the bottom of this README.md to /wp-admin/index.php
+
+---
+
 ### login.php
 
 ```
