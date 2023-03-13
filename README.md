@@ -9,8 +9,6 @@ Are you tired of hackers brute-forcing your wp-admin?
 ( Source of info: https://www.shutterstock.com/blog/how-hex-colors-work#:~:text=How%20Many%20Hex%20Colors%20Are,ranging%20from%2000%20to%20FF. )
 
 ---
-Test Login Here: https://wecreatelyfe.com/wp-admin
----
 
 # How To Install?
 Place "login.php , logout.php and login_handle.php" into the "wp-admin" directory.
